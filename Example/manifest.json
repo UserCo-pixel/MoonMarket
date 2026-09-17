@@ -1,0 +1,5 @@
+"Example" {
+  "icon": "icon.png",
+  "main": "Activitys/main.py"
+}
+ 
